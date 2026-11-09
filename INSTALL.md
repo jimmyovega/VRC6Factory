@@ -5,7 +5,7 @@ what's generic, adapt what's repo-specific, verify it, and report. Work in the
 project's root. Don't clone this repository.
 
 The source is the folder the user pointed you at. On GitHub, read files from
-`https://github.com/jimmyovega/VRC6Factory/<path>`.
+`https://raw.githubusercontent.com/jimmyovega/VRC6Factory/main/<path>`.
 
 ## 0. Check the project
 
