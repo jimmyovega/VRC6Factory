@@ -44,7 +44,7 @@ factory/dashboard.html
 ```
 
 ```bash
-SRC=https://github.com/jimmyovega/VRC6Factory
+SRC=https://github.com/jimmyovega/VRC6Factory/main
 for f in <the paths above>; do
   mkdir -p "$(dirname "$f")" && curl -fsSL "$SRC/$f" -o "$f"
 done
